@@ -1,1 +1,1 @@
-export const MAPBOX_APIKEY = import.meta.env.MAPBOX_APIKEY
+export const MAPBOX_APIKEY = import.meta.env.VITE_MAPBOX_APIKEY
